@@ -1,0 +1,86 @@
+Année;Formations;UE;EC;Groupes;Tuteur 1;Tuteur 2
+*2018*;PREPA;;;;;
+;;*2018*UE0 - Salle administrative;;;;
+;;;*2018*EC0 - Salle administrative tuteurs PREPA-PE;;;
+;;;;;;
+;;;*2018*EC0 - Salle administrative vie étudiante PREPA-PE;;;
+;;;;;;
+;;*2018*UE11 - Connaissance du métier;;;;
+;;;*2018*EC111 - Connaissance du métier 1;;;
+;;;;1;vcaillet ;sleduc
+;;;;2;mfrichtel;sleduc
+;;;*2018*EC112 - Connaissance du métier de professeur des écoles 1;;;
+;;;;1;vcaillet ;sleduc
+;;;;2;mfrichtel;sleduc
+;;;*2018*EC113 - Les usages du numérique en milieu scolaire;;;
+;;;;1;rtranchant;sleduc
+;;;;2;terret;sleduc
+;;*2018*UE1 - Connaissance du métier;;;;
+;;;*2018*UE211 - Connaissance du métier 1;;;
+;;;;1;vcaillet ;sleduc
+;;;;2;mfrichtel;sleduc
+;;;*2018*UE212 - Connaissance du métier de professeur des écoles 2;;;
+;;;;1;vcaillet ;sleduc
+;;;;2;mfrichtel;sleduc
+;;*2018*UE3 - Culture disciplinaire et didactique dans le domaine des humanités;;;;
+;;;*2018*EC231 - Le français à l'école primaire;;;
+;;;;1;vazarian;sleduc
+;;;;2;Waszak;sleduc
+;;*2018*UE3 - Culture disciplinaire et didactique dans le domaine des humanités-connaissances et enjeux;;;;
+;;;*2018*EC131 - Le français à l'école primaire;;;
+;;;;1;vazarian;sleduc
+;;;;2;;sleduc
+;;*2018*UE4 - Culture disciplinaire et didactique dans le domaine des sciences, des techniques et de l'EPS;;;;
+;;;*2018*EC141 - Les mathématiques à l'école primaire;;;
+;;;;1;jalbertus;sleduc
+;;;;2;abecart;sleduc
+;;;*2018*EC143 - EPS;;;
+;;;;1;inguyen;sleduc
+;;;;2;jbchiama;sleduc
+;;*2018*UE4 - Culture disciplinaire et didactique dans le domaine des sciences, des techniques et de l'EPS;;;;
+;;;*2018*EC241 - Les mathématiques à l'école primaire;;;
+;;;;1;jalbertus;sleduc
+;;;;2;abecart;sleduc
+;;;*2018*EC243 - EPS;;;
+;;;;1;inguyen;sleduc
+;;;;2;jbchiama;sleduc
+;;*2018*UE6 - Enseignement optionnel de préparation à l' oral 1 du concours intégrant la dimension numérique1;;;;
+;;;*2018*EC161/162 - Option histoire et géographie;;;
+;;;;1;glabinal;sleduc
+;;;;2;glabinal;sleduc
+;;;*2018*EC163 - Option ICM;;;
+;;;;1;;sleduc
+;;;;2;;sleduc
+;;;*2018*EC164 - Option sciences;;;
+;;;;1 (SVT);mdoinlai;sleduc
+;;;;2 (SVT);mdoinlai;sleduc
+;;;;3 (Physique);Savina;sleduc
+;;;*2018*EC165 - Option arts plastiques;;;
+;;;;1;skemmet;sleduc
+;;;;2;skemmet;sleduc
+;;;*2018*EC166 - Option éducation musicale;;;
+;;;;1;sduval;sleduc
+;;;;2;sduval;sleduc
+;;;*2018*EC167 - Option histoire des arts;;;
+;;;;1;skemmet;sleduc
+;;;;2;skemmet;sleduc
+;;*2018*UE26 - Enseignement optionnel de préparation à l' oral 1 du concours intégrant la dimension numérique1;;;;
+;;;*2018*EC261/262 - Option histoire et géographie;;;
+;;;;1;glabinal;sleduc
+;;;;2;glabinal;sleduc
+;;;*2018*EC263 - Option ICM;;;
+;;;;1;;sleduc
+;;;;2;;sleduc
+;;;*2018*EC264 - Sciences;;;
+;;;;1 (SVT);mdoinlai;sleduc
+;;;;2 (SVT);mdoinlai;sleduc
+;;;;3 (Physique);Savina;sleduc
+;;;*2018*EC265 - Option arts plastiques;;;
+;;;;1;skemmet;sleduc
+;;;;2;skemmet;sleduc
+;;;*2018*EC266 - Option éducation musicale;;;
+;;;;1;sduval;sleduc
+;;;;2;sduval;sleduc
+;;;*2018*EC267 - Option histoire des arts;;;
+;;;;1;skemmet;sleduc
+;;;;2;skemmet;sleduc

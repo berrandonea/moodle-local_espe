@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * @package    local-mail
+ * @package    local-espe
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
